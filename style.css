@@ -1,0 +1,28 @@
+
+body{
+    background-color:#eccff7 ;
+    align-items: center;
+    margin:0;
+    padding:0;
+}
+
+header{
+    background-image: linear-gradient(to bottom left, rgb(227, 181, 241), rgb(129, 71, 196));
+
+}
+main{
+    background-color: #eccff7;
+    
+}
+.imagenes{
+  border-radius:20px;
+  position:relative;
+    left:100px;
+  height:200px
+  
+}
+button{
+    text-align: right;
+}
+
+
